@@ -1,161 +1,294 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey,%20I'm%20Dhanush%20%F0%9F%91%8B&fontSize=42&fontColor=00ff9c&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20BE%20CSE%20%40%20Sathyabama%20Institute%20of%20Science%20%26%20Technology&descAlignY=55&descSize=16&descColor=8be9fd"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1f16,100:00ff9c&height=230&section=header&text=DHANUSH%20KIRAN&fontSize=48&fontColor=00FF9C&fontAlignY=38&desc=CYBERSECURITY%20%7C%20CSE%20%7C%20BUILD%20%7C%20BREAK%20%7C%20LEARN&descAlignY=58&descSize=15&descColor=B8FFE1&animation=fadeIn" width="100%"/>
 
-<!-- Typing animation -->
-<a href="https://github.com/thedhanushkiran">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=00FF9C&center=true&vCenter=true&width=650&lines=Breaking+things+to+understand+how+they+work;Linux+%E2%80%A2+Networking+%E2%80%A2+Python+%E2%80%A2+Pentesting;Currently+exploring%3A+CTFs+%26+offensive+security;Building+my+own+tools%2C+one+script+at+a+time" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=00FF9C&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Cybersecurity+Student;%24+focus+%E2%86%92+Offensive+Security+%7C+Networking;%24+lab+%E2%86%92+Linux+%7C+CTFs+%7C+Security+Tools;%24+build+%E2%86%92+Tools+%26+Automation;%24+mission+%E2%86%92+Understand+systems.+Test+them.+Secure+them." alt="Typing SVG"/>
 
 <br>
 
-<!-- Social badges -->
 <a href="https://github.com/thedhanushkiran">
-  <img src="https://img.shields.io/badge/GitHub-thedhanushkiran-0f0c29?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF9C"/>
 </a>
 <a href="mailto:dhanushkiranx@gmail.com">
-  <img src="https://img.shields.io/badge/Email-dhanushkiranx%40gmail.com-0f0c29?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00FF9C?style=flat-square&labelColor=050505"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00FF9C?style=flat-square&labelColor=050505"/>
+<img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-00FF9C?style=flat-square&labelColor=050505"/>
 
 </div>
 
-<br>
+---
 
-<!-- ===================== ABOUT ===================== -->
-## 👤 About Me
+## `> whoami`
 
-```yaml
-name:        Dhanush Kiran
-role:        BE CSE Student | Aspiring Cybersecurity Professional
-college:     Sathyabama Institute of Science and Technology
-os:          Kali Linux (fully custom-built, dark/minimal rice)
-focus_areas:
-  - Network Security & Penetration Testing
-  - Linux System Administration & Hardening
-  - Tool Building / Automation Scripting
-currently:   "Learning offensive security fundamentals & solving CTFs"
-philosophy:  "Understand the system, then test its limits — ethically."
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     DHANUSH KIRAN                            │
+├──────────────────────────────────────────────────────────────┤
+│ Role        : B.E. CSE Student                              │
+│ Speciality  : Cybersecurity                                 │
+│ Institution : Sathyabama Institute of Science & Technology   │
+│                                                               │
+│ Focus       : Offensive Security                             │
+│               Network Security                               │
+│               Linux & System Security                        │
+│               Security Automation                            │
+│               CTFs & Practical Labs                          │
+│                                                               │
+│ Philosophy  : Understand the system.                         │
+│               Break it ethically.                            │
+│               Learn how to secure it.                        │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-<br>
+> **I don't want to just use security tools. I want to understand what happens underneath them.**
 
-<!-- ===================== TECH STACK ===================== -->
-## 🧰 Tech Stack & Tools
+---
+
+## `> current_mission`
+
+```bash
+$ cat mission.txt
+
+[01] Build strong Linux fundamentals
+[02] Understand networking from the packet level
+[03] Learn penetration testing methodologies
+[04] Build security-focused tools
+[05] Solve CTF challenges
+[06] Automate repetitive security workflows
+[07] Document everything I learn
+```
+
+---
+
+# `> cybersecurity_stack`
 
 <div align="center">
 
-#### Languages
-<img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/C-0f0c29?style=for-the-badge&logo=c&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Java-0f0c29?style=for-the-badge&logo=java&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Bash-0f0c29?style=for-the-badge&logo=gnu-bash&logoColor=00FF9C"/>
+### `LANGUAGES`
 
-#### Web
-<img src="https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=00FF9C"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,javascript&theme=dark" />
 
-#### Systems & Networking
-<img src="https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Kali_Linux-0f0c29?style=for-the-badge&logo=kalilinux&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Networking-0f0c29?style=for-the-badge&logo=cisco&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=00FF9C"/>
+<br><br>
 
-#### Security Toolkit
-<img src="https://img.shields.io/badge/Nmap-0f0c29?style=for-the-badge&logo=nmap&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Wireshark-0f0c29?style=for-the-badge&logo=wireshark&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Burp_Suite-0f0c29?style=for-the-badge&logo=burpsuite&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Metasploit-0f0c29?style=for-the-badge&logo=metasploit&logoColor=00FF9C"/>
+### `OPERATING SYSTEMS`
+
+<img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" />
+
+<br><br>
+
+### `NETWORKING & SECURITY`
+
+<img src="https://img.shields.io/badge/Nmap-050505?style=for-the-badge&logo=nmap&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-050505?style=for-the-badge&logo=burpsuite&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Metasploit-050505?style=for-the-badge&logo=metasploit&logoColor=00FF9C"/>
+
+<br><br>
+
+### `DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=dark" />
 
 </div>
 
-<br>
+---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## 🚀 Featured Projects
+## `> security_toolkit`
 
-<!--
-  TODO (Dhanush): the two pin cards below need REAL repo slugs.
-  Replace "REPLACE-WITH-EXACT-REPO-NAME" with the exact, case-correct
-  name of each repo as it appears in your GitHub URL, e.g.
-  github.com/thedhanushkiran/Vyne -> repo=Vyne
-  If a repo is private, the pin card will always show "Repository not found".
--->
+```text
+┌───────────────────────┬──────────────────────────────────────┐
+│ CATEGORY              │ TOOLS                                │
+├───────────────────────┼──────────────────────────────────────┤
+│ Reconnaissance        │ Nmap                                 │
+│ Network Analysis      │ Wireshark                            │
+│ Web Security          │ Burp Suite                           │
+│ Exploitation          │ Metasploit                           │
+│ Operating Systems     │ Linux / Kali Linux                   │
+│ Scripting              │ Python / Bash                       │
+│ Development            │ C / C++ / JavaScript / Node.js      │
+│ Version Control        │ Git / GitHub                        │
+│ Labs & Practice        │ CTFs / Security Labs               │
+└───────────────────────┴──────────────────────────────────────┘
+```
+
+---
+
+# `> projects`
+
 <div align="center">
 
-<a href="https://github.com/thedhanushkiran/REPLACE-WITH-EXACT-REPO-NAME">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=thedhanushkiran&repo=REPLACE-WITH-EXACT-REPO-NAME&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=00ff9c&text_color=8be9fd"/>
+<a href="https://github.com/thedhanushkiran/Vyne">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thedhanushkiran&repo=Vyne&theme=dark&hide_border=true&bg_color=050505&title_color=00FF9C&text_color=B8FFE1&icon_color=00FF9C"/>
 </a>
-<a href="https://github.com/thedhanushkiran/REPLACE-WITH-EXACT-REPO-NAME">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=thedhanushkiran&repo=REPLACE-WITH-EXACT-REPO-NAME&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=00ff9c&text_color=8be9fd"/>
+
+<a href="https://github.com/thedhanushkiran/Net-Recon">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thedhanushkiran&repo=Net-Recon&theme=dark&hide_border=true&bg_color=050505&title_color=00FF9C&text_color=B8FFE1&icon_color=00FF9C"/>
 </a>
 
 </div>
 
-<p align="center">
-💡 <b>Net-Recon</b> — a multi-threaded Python port scanner with banner grabbing.<br>
-💡 <b>Vyne</b> — a WebRTC peer-to-peer encrypted video calling app with a custom signaling server.
-</p>
+### `Vyne`
 
-<br>
+> A privacy-focused peer-to-peer communication project exploring WebRTC, signaling, networking, and secure communication concepts.
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+**Exploring:**
+
+```text
+WebRTC
+Peer-to-Peer Communication
+Signaling
+Networking
+Privacy
+Real-Time Communication
+```
+
+### `Net-Recon`
+
+> A Python-based network reconnaissance project focused on understanding how port scanning and service discovery work underneath common security tooling.
+
+**Exploring:**
+
+```text
+Python
+Sockets
+Port Scanning
+Banner Grabbing
+Concurrency
+Network Reconnaissance
+```
+
+---
+
+# `> learning_path`
+
+```text
+                         CYBERSECURITY
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+           NETWORK          LINUX            CODE
+              │               │               │
+        TCP/IP / DNS      CLI / Bash       Python / C
+        HTTP / TLS        Processes         Scripting
+        Routing           Permissions      Automation
+              │               │               │
+              └───────────────┼───────────────┘
+                              │
+                       SECURITY FUNDAMENTALS
+                              │
+                    ┌─────────┴─────────┐
+                    │                   │
+                 OFFENSIVE           DEFENSIVE
+                    │                   │
+                 Recon              Monitoring
+                 Enumeration        Hardening
+                 Web Security       Detection
+                 Exploitation       Analysis
+                    │                   │
+                    └─────────┬─────────┘
+                              │
+                           CTFs
+                              │
+                         REAL PROJECTS
+```
+
+---
+
+# `> currently_learning`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thedhanushkiran&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=00ff9c&icon_color=00ff9c&text_color=8be9fd&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhanushkiran&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=00ff9c&text_color=8be9fd" width="42%"/>
+```text
+[████████████████░░░░] Linux & System Administration
 
-<br><br>
+[███████████████░░░░░] Networking & TCP/IP
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thedhanushkiran&theme=midnight-purple&hide_border=true&background=0f0c29&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="60%"/>
+[██████████████░░░░░░] Python for Security
 
-<br><br>
+[████████████░░░░░░░░] Web Application Security
 
-<!--
-  Disabled for now: github-profile-trophy.vercel.app is currently returning
-  HTTP 402 (Payment Required) — the shared public instance has hit Vercel's
-  usage cap, not a problem with this file. Re-enable by uncommenting below
-  once the service is back, or replace with a self-hosted fork.
+[███████████░░░░░░░░░] Penetration Testing
 
-  <img src="https://github-profile-trophy.vercel.app/?username=thedhanushkiran&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="85%"/>
--->
+[█████████░░░░░░░░░░░] CTFs & Vulnerability Research
+```
 
 </div>
 
-<br>
+---
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-## 📈 Contribution Activity
+# `> github_activity`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thedhanushkiran&theme=react-dark&bg_color=0f0c29&color=00ff9c&line=8be9fd&point=ffffff&hide_border=true" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thedhanushkiran&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF9C&icon_color=00FF9C&text_color=B8FFE1&include_all_commits=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhanushkiran&layout=compact&hide_border=true&bg_color=050505&title_color=00FF9C&text_color=B8FFE1" width="40%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thedhanushkiran&hide_border=true&background=050505&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=B8FFE1&currStreakNum=B8FFE1&sideNums=B8FFE1" width="65%"/>
 
 </div>
 
-<!--
-  Idea for later: a "snake eating your contributions" animated GIF
-  (the Platane/snk GitHub Action) can go in the banner at the very top
-  of this file. Ask Claude to generate the workflow file when you want it.
--->
+---
 
-<br>
+# `> contribution_activity`
 
-<!-- ===================== QUOTE / FOOTER ===================== -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thedhanushkiran&bg_color=050505&color=00FF9C&line=00FF9C&point=B8FFE1&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# `> terminal`
+
+```text
+┌──(dhanush㉿kali)-[~/cybersecurity]
+└─$ ./start.sh
+
+[+] Initializing environment...
+[+] Loading Linux...
+[+] Loading networking...
+[+] Loading Python...
+[+] Loading security tools...
+[+] Starting CTF mode...
+
+────────────────────────────────────────────────────────
+
+        LEARN  →  BUILD  →  BREAK  →  ANALYZE  →  SECURE
+
+────────────────────────────────────────────────────────
+
+[+] System ready.
+```
+
+---
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://github.com/thedhanushkiran">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+</a>
+
+<a href="mailto:dhanushkiranx@gmail.com">
+<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=thedhanushkiran&label=Profile%20Views&color=00ff9c&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=thedhanushkiran&label=PROFILE%20VISITORS&color=00FF9C&style=for-the-badge&labelColor=050505"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0b1f16,100:050505&height=130&section=footer" width="100%"/>
 
 </div>
