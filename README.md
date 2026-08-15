@@ -146,11 +146,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedhanushkiran&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=CC0000&icon_color=CC0000&text_color=ffffff&border_color=CC0000&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedhanushkiran&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FF0000&icon_color=FF0000&text_color=ffffff&border_color=FF0000&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedhanushkiran&layout=compact&theme=dark&bg_color=0d0d0d&title_color=CC0000&text_color=ffffff&border_color=CC0000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedhanushkiran&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FF0000&text_color=ffffff&border_color=FF0000&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thedhanushkiran&theme=dark&background=0d0d0d&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&border=CC0000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thedhanushkiran&theme=dark&background=0d0d0d&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border=FF0000&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
