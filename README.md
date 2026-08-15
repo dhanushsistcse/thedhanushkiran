@@ -146,13 +146,22 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedhanushkiran&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FF0000&icon_color=FF0000&text_color=ffffff&border_color=FF0000&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github)
+<a href="https://github.com/thedhanushkiran">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=thedhanushkiran&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF3B30&text_color=F0F6FC&icon_color=FF3B30&border_color=30363D&hide_border=false&include_all_commits=true" alt="Dhanush Kiran's GitHub statistics"/>
+</a>
+<a href="https://github.com/thedhanushkiran">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thedhanushkiran&layout=compact&langs_count=6&theme=dark&bg_color=0D1117&title_color=FF3B30&text_color=F0F6FC&border_color=30363D&hide_border=false" alt="Dhanush Kiran's most used programming languages"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedhanushkiran&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FF0000&text_color=ffffff&border_color=FF0000&langs_count=8)
+<br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thedhanushkiran&theme=dark&background=0d0d0d&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border=FF0000&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+<a href="https://github.com/thedhanushkiran">
+  <img src="https://streak-stats.demolab.com?user=thedhanushkiran&theme=dark&background=0D1117&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30&sideLabels=F0F6FC&dates=8B949E&border=30363D&hide_border=false" alt="Dhanush Kiran's GitHub contribution streak"/>
+</a>
 
 </div>
+
+> **Stats are generated dynamically from GitHub.**
 
 ---
 
