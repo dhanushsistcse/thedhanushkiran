@@ -8,7 +8,9 @@
 ██████╔╝ ██║  ██║ ██║  ██║ ██║ ╚████║ ╚██████╔╝ ███████║ ██║  ██║
 ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝  ╚═════╝  ╚══════╝ ╚═╝  ╚═╝
 ```
+</div>
 
+<div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=CC0000&center=true&vCenter=true&width=800&lines=Cybersecurity+Student+%26+Developer;Offensive+Security+%7C+Red+Team+Mindset;IF+YOU+WANT+TO+CRACK+THE+SYSTEM+%3B;FIRST+UNDERSTAND+THE+SYSTEM.)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=3&section=header"/>
